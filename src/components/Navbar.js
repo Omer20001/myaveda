@@ -9,7 +9,7 @@ const Navbar = (props) => {
     <div className='navbarr'>
       <nav   className="navbar navbar-expand-lg navbar-light bg-light">
         <div className="col-md-12 col-lg-3">
-        <Link to="/"> <img className=' animate__animated animate__fadeInTopLeft' src="https://cdn.shopify.com/s/files/1/0054/0567/1479/files/Logo_large.png?v=1604396272" alt="" /></Link>
+        <Link to="/myaveda"> <img className=' animate__animated animate__fadeInTopLeft' src="https://cdn.shopify.com/s/files/1/0054/0567/1479/files/Logo_large.png?v=1604396272" alt="" /></Link>
         <button style={{float:"right" }}
           className="navbar-toggler"
           type="button"

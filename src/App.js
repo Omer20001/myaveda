@@ -19,7 +19,7 @@ class App extends Component {
 
           <Navbar />
 
-          <Route  exact path="/" component={Home}/>
+          <Route  exact path="/myaveda" component={Home}/>
           <Route path='/about' component={About} />
        
 
