@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/myaveda/static/css/main.294906ae.chunk.css",
+    "main.js": "/myaveda/static/js/main.bca10200.chunk.js",
+    "main.js.map": "/myaveda/static/js/main.bca10200.chunk.js.map",
+    "runtime-main.js": "/myaveda/static/js/runtime-main.82bcc8aa.js",
+    "runtime-main.js.map": "/myaveda/static/js/runtime-main.82bcc8aa.js.map",
+    "static/js/2.c484cbf3.chunk.js": "/myaveda/static/js/2.c484cbf3.chunk.js",
+    "static/js/2.c484cbf3.chunk.js.map": "/myaveda/static/js/2.c484cbf3.chunk.js.map",
+    "static/js/3.e27705ac.chunk.js": "/myaveda/static/js/3.e27705ac.chunk.js",
+    "static/js/3.e27705ac.chunk.js.map": "/myaveda/static/js/3.e27705ac.chunk.js.map",
+    "index.html": "/myaveda/index.html",
+    "static/css/main.294906ae.chunk.css.map": "/myaveda/static/css/main.294906ae.chunk.css.map",
+    "static/js/2.c484cbf3.chunk.js.LICENSE.txt": "/myaveda/static/js/2.c484cbf3.chunk.js.LICENSE.txt",
+    "static/media/img10.b9d04578.png": "/myaveda/static/media/img10.b9d04578.png",
+    "static/media/img11.fbec4dd9.png": "/myaveda/static/media/img11.fbec4dd9.png",
+    "static/media/img12.0082c5a0.png": "/myaveda/static/media/img12.0082c5a0.png",
+    "static/media/img13.f7aca70c.png": "/myaveda/static/media/img13.f7aca70c.png",
+    "static/media/img14.74e2d96b.png": "/myaveda/static/media/img14.74e2d96b.png",
+    "static/media/img15.82c05fb3.png": "/myaveda/static/media/img15.82c05fb3.png",
+    "static/media/img16.c8eb89ea.png": "/myaveda/static/media/img16.c8eb89ea.png",
+    "static/media/img3.7ef6d4c4.png": "/myaveda/static/media/img3.7ef6d4c4.png",
+    "static/media/img4.b02cdc98.png": "/myaveda/static/media/img4.b02cdc98.png",
+    "static/media/img5.6a2fb810.png": "/myaveda/static/media/img5.6a2fb810.png",
+    "static/media/img6.82c05fb3.png": "/myaveda/static/media/img6.82c05fb3.png",
+    "static/media/img7.c8eb89ea.png": "/myaveda/static/media/img7.c8eb89ea.png",
+    "static/media/img8.a78bf48d.png": "/myaveda/static/media/img8.a78bf48d.png",
+    "static/media/img9.74e2d96b.png": "/myaveda/static/media/img9.74e2d96b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.82bcc8aa.js",
+    "static/js/2.c484cbf3.chunk.js",
+    "static/css/main.294906ae.chunk.css",
+    "static/js/main.bca10200.chunk.js"
+  ]
+}
