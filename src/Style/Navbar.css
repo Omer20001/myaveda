@@ -1,0 +1,63 @@
+.navbar {
+  background-color: white;
+}
+
+.dropdown:hover > .dropdown-menu {
+  display: block;
+}
+
+a > i {
+  color: black;
+  padding-right: 10px;
+  font-size: 20px;
+}
+
+.nav-link {
+  padding-right: 15px !important;
+}
+
+@media only screen and (max-width: 1300px) {
+  a > i {
+    font-size: 12px;
+  }
+  .nav-link {
+    padding-right: 0px !important;
+  }
+}
+
+.navelement {
+  font-size: 14px;
+  font-weight: 600;
+  color: #808e9b;
+}
+
+.navelement:hover {
+  color: #485460;
+}
+
+.hot {
+  border-radius: 20%;
+  background-color: #df0000;
+  color: white;
+  font-weight: 200;
+}
+
+.sale, .new {
+  background-color: green;
+  color: white;
+  font-weight: 200;
+  border-radius: 20%;
+}
+
+.fa-shopping-bag {
+  color: #6E6C3C;
+}
+
+.fa-sign-in-alt {
+  color: #6E6C3C;
+}
+
+.fa-user-friends {
+  color: #6E6C3C;
+}
+/*# sourceMappingURL=Navbar.css.map */

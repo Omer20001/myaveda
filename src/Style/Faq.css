@@ -1,0 +1,21 @@
+.faq-btn {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.up {
+  display: none;
+}
+
+.faq-h1 {
+  font-family: 'Dancing Script', cursive;
+  color: #6E6C3C;
+}
+/*# sourceMappingURL=Faq.css.map */

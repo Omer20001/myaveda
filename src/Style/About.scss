@@ -1,0 +1,127 @@
+.body{
+    background:linear-gradient(141deg, #ccc 25%, #eee 40%, #ddd 55%);
+}
+.about-h1{
+  font-family: 'Dancing Script', cursive !important;
+  font-size: 50px;
+  color: #6E6C3C;
+}
+.about-button{
+    background-color: #6E6C3C !important;
+    border-radius: 40px !important;
+    width: 200px;
+   
+}
+.about-button:hover{
+    background-color: #237948 !important;
+
+    transition: background-color 0.8s ease;
+    
+}
+.about-button:hover .about-btn{
+
+  color: #e0d988 !important;
+  transition: color 0.8s ease;
+  
+}
+.about-button:hover .about-i{
+padding-left: 30px;
+transition: padding-left 0.4s ease;
+}
+.about-btn{
+    color: white;
+ }
+.about-i{
+    padding-left: 10px;
+}
+.about-img1{
+    zoom: 0.65;
+    
+   
+}
+.about-img1:hover{
+  box-shadow: 0 0 15px #6E6C3C;
+ 
+}
+.fa-tachometer-alt{
+    font-size: 70px;
+
+}
+.our-service{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+
+#container {
+    color:#6E6C3C;
+    text-transform: uppercase;
+    font-size:36px;
+    font-weight:bold;
+    width:100%;
+display: flex;
+flex-direction: column;
+align-items: center;
+text-align: center;
+
+
+  }
+  
+  #flip {
+    height:50px;
+    overflow:hidden;
+  }
+  
+  #flip > div > div {
+    color:#fff;
+    padding:4px 12px;
+    height:45px;
+    margin-bottom:45px;
+    display:inline-block;
+  }
+  
+  #flip div:first-child {
+    animation: show 5s linear infinite;
+  }
+  
+  #flip div div {
+    background:#42c58a;
+  }
+  #flip div:first-child div {
+    background:#4ec7f3;
+  }
+  #flip div:last-child div {
+    background:#DC143C;
+  }
+  
+  @keyframes show {
+    0% {margin-top:-270px;}
+    5% {margin-top:-180px;}
+    33% {margin-top:-180px;}
+    38% {margin-top:-90px;}
+    66% {margin-top:-90px;}
+    71% {margin-top:0px;}
+    99.99% {margin-top:0px;}
+    100% {margin-top:-270px;}
+  }
+  
+  .about-last-img{
+      border-radius: 10px;
+
+  }
+  .about-last-img:hover{
+    border-radius: 10px;
+    box-shadow: 0 0 15px #6E6C3C;
+}
+  
+
+  @media only screen and (max-width: 600px) {
+    .about-img1{
+      zoom: 0.45;
+    }
+  
+    
+  }
+  

@@ -1,0 +1,29 @@
+.contact-h1-1{
+    font-family: 'Dancing Script', cursive !important;
+    font-size: 50px;
+    color: #6E6C3C;
+}
+.contact-img1{
+    zoom: 0.83;
+}
+.contact-bold{
+    font-weight: bold;
+}
+
+.contact-icon{
+    font-size: 30px;
+    color: #6E6C3C;
+}
+.btn-floating:hover .contact-icon{
+    transform: rotateX(360deg);
+    transition: transform .75s;
+}
+
+@media only screen and (max-width: 600px) {
+.contact-img1{
+    zoom: 0.55;
+}
+.contact-h1{
+    font-size: 24px;
+}
+  }

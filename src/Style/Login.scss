@@ -1,0 +1,30 @@
+.login-page{
+    font-family: 'Dancing Script', cursive;
+    font-size: 50px;
+    color: #6E6C3C;
+}
+.fa-user-shield{
+    font-size: 40px;
+    color: #6E6C3C ;
+    
+}
+
+.log-btn{
+    color: white;
+}
+.log-btn:hover{
+    color: #e0d988 ;
+   
+}
+
+.login-form{
+    width: 40%;
+}
+
+@media only screen and (max-width: 500px) {
+ 
+    .login-form{
+        width: 75%;
+    }
+
+  }
