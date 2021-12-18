@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/myaveda/static/css/main.294906ae.chunk.css",
-    "main.js": "/myaveda/static/js/main.bca10200.chunk.js",
-    "main.js.map": "/myaveda/static/js/main.bca10200.chunk.js.map",
+    "main.js": "/myaveda/static/js/main.38b8b96c.chunk.js",
+    "main.js.map": "/myaveda/static/js/main.38b8b96c.chunk.js.map",
     "runtime-main.js": "/myaveda/static/js/runtime-main.82bcc8aa.js",
     "runtime-main.js.map": "/myaveda/static/js/runtime-main.82bcc8aa.js.map",
     "static/js/2.c484cbf3.chunk.js": "/myaveda/static/js/2.c484cbf3.chunk.js",
@@ -31,6 +31,6 @@
     "static/js/runtime-main.82bcc8aa.js",
     "static/js/2.c484cbf3.chunk.js",
     "static/css/main.294906ae.chunk.css",
-    "static/js/main.bca10200.chunk.js"
+    "static/js/main.38b8b96c.chunk.js"
   ]
 }
